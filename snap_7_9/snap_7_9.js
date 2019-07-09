@@ -1,11 +1,8 @@
 //function that will add two integers//
 
-function multiply(5,2) {
-
-	return 5 * 2;
+function add(num1, num2) {
+	let sum = num1 + num2;
+	console.log(sum);
 }
 
-function add (10, 5) {
-
-	return 10 + 5;
-}
+add(4, 4);
