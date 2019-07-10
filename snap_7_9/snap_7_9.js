@@ -41,3 +41,5 @@ let jazz = operation(3,7);
 let ska = operation(750,3);
 
 console.log(punk, ska, jazz);
+
+
