@@ -10,6 +10,11 @@ function(convertToGrams, weight, units); {
 		return weight * .0625;
 	}else if (units==='kg'){
 		return weight * 35.274
-	}else if (units==='mg')
+	}else if (units==='mg') {
 		return weigth/3.5274
+	}else {
+		return weight;
+	}
+
+
 }
