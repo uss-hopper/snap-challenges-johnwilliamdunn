@@ -7,5 +7,8 @@ function(convertToGrams, weight, units); {
 	if(units==="1b") {
 		return weight * .0625;
 	}else if(units==='oz'){
+		return weight * .0625;
+	}else if (units==='kg'){
+		return weight * 35.274
 	}
 }
