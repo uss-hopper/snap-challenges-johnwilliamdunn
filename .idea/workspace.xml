@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8855a6fa-66b1-4be7-939e-cc2410d58143" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/snap_7_30/snap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snap_7_25/gitbranch.rtf" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - jdunn33@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - jdunn33@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - jdunn33@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="jdunn33: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="a36c5fa1-b775-445d-8c95-872daddcaafc" />
+    </checked>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snap_7_25/snap.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/snap_7_30/snap.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="790">
+              <caret line="64" column="97" selection-start-line="64" selection-start-column="97" selection-end-line="64" selection-end-column="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/snap_7_9/.gitignore" />
+        <option value="$PROJECT_DIR$/snap_7_9/snap_7_9.js" />
+        <option value="$PROJECT_DIR$/snap_7_9/index.js" />
+        <option value="$PROJECT_DIR$/snap-04-11/index.html" />
+        <option value="$PROJECT_DIR$/snap-04-11/ddl.sql" />
+        <option value="$PROJECT_DIR$/snap_7_16/ddl.sql" />
+        <option value="$PROJECT_DIR$/snap-04-11/snap_7_18/snap.php" />
+        <option value="$PROJECT_DIR$/snap-04-11/snap_7_18/snap.js" />
+        <option value="$PROJECT_DIR$/snap_7_23/snap.php" />
+        <option value="$PROJECT_DIR$/snap_7_25/snap.html" />
+        <option value="$PROJECT_DIR$/snap_7_30/snap.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="y" value="23" />
+    <option name="width" value="960" />
+    <option name="height" value="976" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="snap-challenges-johnwilliamdunn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snap-challenges-johnwilliamdunn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snap-challenges-johnwilliamdunn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snap-challenges-johnwilliamdunn" type="462c0819:PsiDirectoryNode" />
+              <item name="snap_7_25" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snap-challenges-johnwilliamdunn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snap-challenges-johnwilliamdunn" type="462c0819:PsiDirectoryNode" />
+              <item name="snap_7_30" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snap-challenges-johnwilliamdunn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="options.lastSelected" value="com.intellij.application.options.CodeStyleSchemesConfigurable" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/snap_7_25" />
+      <recent name="$PROJECT_DIR$/snap-04-11" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/snap_7_9" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.snap.js">
+    <configuration name="snap_7_9.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="snap_7_9.js" working-dir="$PROJECT_DIR$/snap_7_9">
+      <method v="2" />
+    </configuration>
+    <configuration name="snap.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="snap.js" working-dir="$PROJECT_DIR$/snap-04-11/snap_7_18">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.snap.js" />
+        <item itemvalue="Node.js.snap_7_9.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\sim\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8855a6fa-66b1-4be7-939e-cc2410d58143" name="Default Changelist" comment="" />
+      <created>1562681488172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562681488172</updated>
+      <workItem from="1562681489433" duration="3400000" />
+      <workItem from="1562767343312" duration="4878000" />
+      <workItem from="1562853809177" duration="6334000" />
+      <workItem from="1562881657264" duration="36000" />
+      <workItem from="1563286156135" duration="1649000" />
+      <workItem from="1563459016073" duration="1816000" />
+      <workItem from="1563462843223" duration="2914000" />
+      <workItem from="1563890662550" duration="2679000" />
+      <workItem from="1564063891946" duration="2390000" />
+      <workItem from="1564495628322" duration="2210000" />
+    </task>
+    <task id="LOCAL-00001" summary="adding function to add two numbers">
+      <created>1562683926768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562683926768</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding function to add two numbers. added function to multiply two numbers.">
+      <created>1562684262825</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562684262825</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding function to add two numbers. added function to multiply two numbers.">
+      <created>1562698335402</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562698335402</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding function to add two numbers. added function to multiply two numbers.">
+      <created>1562771187851</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562771187851</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adding function to add two numbers. added function to multiply two numbers.">
+      <created>1562771264035</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562771264035</updated>
+    </task>
+    <task id="LOCAL-00006" summary="adding function to add two numbers. added function to multiply two numbers. added concatenate">
+      <created>1562772012914</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1562772012914</updated>
+    </task>
+    <task id="LOCAL-00007" summary="adding function to add two numbers. added function to multiply two numbers. added concatenate. added file snap-04-11 added content">
+      <created>1562855508854</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1562855508854</updated>
+    </task>
+    <task id="LOCAL-00008" summary="adding function to add two numbers. added function to multiply two numbers. added concatenate. added file snap-04-11 added content">
+      <created>1562855607784</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562855607784</updated>
+    </task>
+    <task id="LOCAL-00009" summary="adding function to add two numbers. added function to multiply two numbers. added concatenate. added file snap-04-11 added content, added new list item">
+      <created>1562856255720</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1562856255720</updated>
+    </task>
+    <task id="LOCAL-00010" summary="adding function to add two numbers. added function to multiply two numbers. added concatenate. added file snap-04-11 added content, added new list item, added screenshot">
+      <created>1562857904441</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1562857904441</updated>
+    </task>
+    <task id="LOCAL-00011" summary="adding function to add two numbers. added function to multiply two numbers. added concatenate. added file snap-04-11 added content, added new list item, added screenshot">
+      <created>1562881682840</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1562881682840</updated>
+    </task>
+    <task id="LOCAL-00012" summary=", added table for task snap challenge">
+      <created>1563287506984</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1563287506984</updated>
+    </task>
+    <task id="LOCAL-00013" summary=", added table for task snap challenge, added select statement for tweet.">
+      <created>1563288092932</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1563288092932</updated>
+    </task>
+    <task id="LOCAL-00014" summary=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge">
+      <created>1563459424825</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1563459424825</updated>
+    </task>
+    <task id="LOCAL-00015" summary=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation">
+      <created>1563459678000</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1563459678000</updated>
+    </task>
+    <task id="LOCAL-00016" summary=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation">
+      <created>1563459847717</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1563459847717</updated>
+    </task>
+    <task id="LOCAL-00017" summary=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation, added mg calculation">
+      <created>1563459917631</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1563459917631</updated>
+    </task>
+    <task id="LOCAL-00018" summary=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation, added mg calculation, added return value">
+      <created>1563459996756</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1563459996756</updated>
+    </task>
+    <task id="LOCAL-00019" summary=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation, added mg calculation, added return value, snap challenge solution.">
+      <created>1563467790407</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1563467790407</updated>
+    </task>
+    <task id="LOCAL-00020" summary=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation, added mg calculation, added return value, snap challenge solution., snap challenge getter/setter method">
+      <created>1563893303079</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1563893303079</updated>
+    </task>
+    <task id="LOCAL-00021" summary=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation, added mg calculation, added return value, snap challenge solution., snap challenge getter/setter method, writing method fixing errors">
+      <created>1563894247832</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1563894247832</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28306000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="23" width="960" height="976" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3529412" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3280543" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26244345" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" order="12" visible="true" weight="0.3280543" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32918552" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32897604" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding function to add two numbers" />
+    <MESSAGE value="adding function to add two numbers. added function to multiply two numbers." />
+    <MESSAGE value="adding function to add two numbers. added function to multiply two numbers. added concatenate" />
+    <MESSAGE value="adding function to add two numbers. added function to multiply two numbers. added concatenate. added file snap-04-11 added content" />
+    <MESSAGE value="adding function to add two numbers. added function to multiply two numbers. added concatenate. added file snap-04-11 added content, added new list item" />
+    <MESSAGE value="adding function to add two numbers. added function to multiply two numbers. added concatenate. added file snap-04-11 added content, added new list item, added screenshot" />
+    <MESSAGE value=", added table for task snap challenge" />
+    <MESSAGE value=", added table for task snap challenge, added select statement for tweet." />
+    <MESSAGE value=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge" />
+    <MESSAGE value=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation" />
+    <MESSAGE value=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation" />
+    <MESSAGE value=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation, added mg calculation" />
+    <MESSAGE value=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation, added mg calculation, added return value" />
+    <MESSAGE value=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation, added mg calculation, added return value, snap challenge solution." />
+    <MESSAGE value=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation, added mg calculation, added return value, snap challenge solution., snap challenge getter/setter method" />
+    <MESSAGE value=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation, added mg calculation, added return value, snap challenge solution., snap challenge getter/setter method, writing method fixing errors" />
+    <option name="LAST_COMMIT_MESSAGE" value=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation, added mg calculation, added return value, snap challenge solution., snap challenge getter/setter method, writing method fixing errors" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/snap_7_9/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap_7_9/snap_7_9.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap_7_9/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap-04-11/html-and-css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://a36c5fa1-b775-445d-8c95-872daddcaafc/schema/jdunn33/table/article">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="d8fae3ad-421a-4347-8b4f-964ee3bf9f57">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a36c5fa1-b775-445d-8c95-872daddcaafc/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap_7_25/gitbranch.rtf" />
+    <entry file="file://$PROJECT_DIR$/snap_7_16/ddl.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap-04-11/snap_7_18/snap1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap-04-11/ddl.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap-04-11/snap_7_18/snap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap_7_23/snap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap-04-11/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap_7_25/snap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap_7_30/snap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="64" column="97" selection-start-line="64" selection-start-column="97" selection-end-line="64" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

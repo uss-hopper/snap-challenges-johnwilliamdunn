@@ -1,0 +1,6 @@
+diff --git a/snap_7_25/my-file.txt b/snap_7_25/my-file.txt
+index e69de29..67a92bc 100644
+--- a/snap_7_25/my-file.txt
++++ b/snap_7_25/my-file.txt
+@@ -0,0 +1 @@
++I'm getting the hang of this git stuff, not
