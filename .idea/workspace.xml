@@ -65,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/snap_7_30/snap.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="790">
-              <caret line="64" column="97" selection-start-line="64" selection-start-column="97" selection-end-line="64" selection-end-column="97" />
+            <state relative-caret-position="190">
+              <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -206,7 +206,7 @@
       <workItem from="1563462843223" duration="2914000" />
       <workItem from="1563890662550" duration="2679000" />
       <workItem from="1564063891946" duration="2390000" />
-      <workItem from="1564495628322" duration="2210000" />
+      <workItem from="1564495628322" duration="2469000" />
     </task>
     <task id="LOCAL-00001" summary="adding function to add two numbers">
       <created>1562683926768</created>
@@ -359,11 +359,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28306000" />
+    <option name="totallyTimeSpent" value="28565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="23" width="960" height="976" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3529412" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -499,8 +498,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snap_7_30/snap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="790">
-          <caret line="64" column="97" selection-start-line="64" selection-start-column="97" selection-end-line="64" selection-end-column="97" />
+        <state relative-caret-position="190">
+          <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
         </state>
       </provider>
     </entry>
