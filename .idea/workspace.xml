@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8855a6fa-66b1-4be7-939e-cc2410d58143" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/snap_7_30/snap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snap_7_25/gitbranch.rtf" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/snap_8_1/snap_8_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snap_8_1/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,20 +54,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snap_7_25/snap.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/snap_8_1/snap_8_1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="105">
+              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/snap_7_30/snap.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snap_8_1/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+            <state relative-caret-position="210">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -97,11 +98,14 @@
         <option value="$PROJECT_DIR$/snap_7_23/snap.php" />
         <option value="$PROJECT_DIR$/snap_7_25/snap.html" />
         <option value="$PROJECT_DIR$/snap_7_30/snap.php" />
+        <option value="$PROJECT_DIR$/snap_8_1/snap_8_1.css" />
+        <option value="$PROJECT_DIR$/snap_8_1/styles.css" />
+        <option value="$PROJECT_DIR$/snap_8_1/snap_8_1.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="960" />
+    <option name="x" value="961" />
     <option name="y" value="23" />
     <option name="width" value="960" />
     <option name="height" value="976" />
@@ -111,7 +115,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,12 +134,18 @@
             </path>
             <path>
               <item name="snap-challenges-johnwilliamdunn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snap-challenges-johnwilliamdunn" type="462c0819:PsiDirectoryNode" />
+              <item name="snap_8_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snap-challenges-johnwilliamdunn" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,7 +154,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="options.lastSelected" value="com.intellij.application.options.CodeStyleSchemesConfigurable" />
@@ -206,7 +215,8 @@
       <workItem from="1563462843223" duration="2914000" />
       <workItem from="1563890662550" duration="2679000" />
       <workItem from="1564063891946" duration="2390000" />
-      <workItem from="1564495628322" duration="2469000" />
+      <workItem from="1564495628322" duration="3160000" />
+      <workItem from="1564668905964" duration="1063000" />
     </task>
     <task id="LOCAL-00001" summary="adding function to add two numbers">
       <created>1562683926768</created>
@@ -355,16 +365,24 @@
       <option name="project" value="LOCAL" />
       <updated>1563894247832</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="added 7-30 snap challenge">
+      <created>1564499091653</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1564499091653</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28565000" />
+    <option name="totallyTimeSpent" value="30319000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="23" width="960" height="976" extended-state="0" />
+    <frame x="961" y="23" width="960" height="976" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3529412" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36056644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -407,7 +425,8 @@
     <MESSAGE value=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation, added mg calculation, added return value, snap challenge solution." />
     <MESSAGE value=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation, added mg calculation, added return value, snap challenge solution., snap challenge getter/setter method" />
     <MESSAGE value=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation, added mg calculation, added return value, snap challenge solution., snap challenge getter/setter method, writing method fixing errors" />
-    <option name="LAST_COMMIT_MESSAGE" value=", added table for task snap challenge, added select statement for tweet. ,weight function snap challenge, adding pound calculation, added oz and kg calculation, added mg calculation, added return value, snap challenge solution., snap challenge getter/setter method, writing method fixing errors" />
+    <MESSAGE value="added 7-30 snap challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 7-30 snap challenge" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/snap_7_9/index.js">
@@ -489,6 +508,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/snap_7_30/snap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/snap_7_25/snap.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -496,10 +522,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/snap_7_30/snap.php">
+    <entry file="file://$PROJECT_DIR$/snap_8_1/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap_8_1/snap_8_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
         </state>
       </provider>
     </entry>
