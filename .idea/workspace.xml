@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8855a6fa-66b1-4be7-939e-cc2410d58143" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/snap_8_1/snap_8_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/snap_8_1/snap_8_1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snap_8_1/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/snap_8_1/styles.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,20 +53,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/snap_8_1/snap_8_1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
+              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/snap_8_1/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="135">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -214,7 +215,7 @@
       <workItem from="1563890662550" duration="2679000" />
       <workItem from="1564063891946" duration="2390000" />
       <workItem from="1564495628322" duration="3160000" />
-      <workItem from="1564668905964" duration="2648000" />
+      <workItem from="1564668905964" duration="3757000" />
     </task>
     <task id="LOCAL-00001" summary="adding function to add two numbers">
       <created>1562683926768</created>
@@ -374,11 +375,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31904000" />
+    <option name="totallyTimeSpent" value="33013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="961" y="23" width="960" height="976" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36056644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -520,17 +520,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/snap_8_1/snap_8_1.html">
+    <entry file="file://$PROJECT_DIR$/snap_8_1/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
+        <state relative-caret-position="135">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/snap_8_1/styles.css">
+    <entry file="file://$PROJECT_DIR$/snap_8_1/snap_8_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="285">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
         </state>
       </provider>
     </entry>
