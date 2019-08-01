@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8855a6fa-66b1-4be7-939e-cc2410d58143" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/snap_8_1/snap_8_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/snap_8_1/snap_8_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snap_8_1/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/snap_8_1/styles.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/snap_8_1/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="360">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -97,8 +97,8 @@
         <option value="$PROJECT_DIR$/snap_7_25/snap.html" />
         <option value="$PROJECT_DIR$/snap_7_30/snap.php" />
         <option value="$PROJECT_DIR$/snap_8_1/snap_8_1.css" />
-        <option value="$PROJECT_DIR$/snap_8_1/styles.css" />
         <option value="$PROJECT_DIR$/snap_8_1/snap_8_1.html" />
+        <option value="$PROJECT_DIR$/snap_8_1/styles.css" />
       </list>
     </option>
   </component>
@@ -214,7 +214,7 @@
       <workItem from="1563890662550" duration="2679000" />
       <workItem from="1564063891946" duration="2390000" />
       <workItem from="1564495628322" duration="3160000" />
-      <workItem from="1564668905964" duration="1315000" />
+      <workItem from="1564668905964" duration="1966000" />
     </task>
     <task id="LOCAL-00001" summary="adding function to add two numbers">
       <created>1562683926768</created>
@@ -374,7 +374,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30571000" />
+    <option name="totallyTimeSpent" value="31222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="961" y="23" width="960" height="976" extended-state="0" />
@@ -522,8 +522,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snap_8_1/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="360">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>

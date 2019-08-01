@@ -13,3 +13,18 @@ li {
 	font-size: 3em;
 	text-align: center;
 }
+
+li {
+	display: flex;
+	align-items: flex-start;
+	padding: 10px;
+}
+
+.my-list {
+	display; flex;
+	flex-flow: row wrap;
+}
+
+.my-list > * {
+	flex: 1 100&;
+}
