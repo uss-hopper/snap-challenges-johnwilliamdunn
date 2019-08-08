@@ -17,11 +17,47 @@
 		  <div class="container">
 			  <div class="row">
 				  <div class="col">
-
+					  <!-- Image and text -->
+					  <nav class="navbar navbar-light bg-light">
+						  <a class="navbar-brand" href="#">
+							  <img src="/docs/4.3/assets/brand/bootstrap-solid.svg" width="30" height="30" class="d-inline-block align-top" alt="">
+							  Bootstrap
+						  </a>
+					  </nav>
 				  </div>
 			  </div>
 		  </div>
 	  </header>
+<!--	  adding content section here-->
+	  <section class="fluid-container">
+		 <div class="container">
+			 <div class="d-inline bg-success">
+				 <div class="col-12">
+					 <div class="card">
+						 <div class="card-header">
+							 Quote
+						 </div>
+						 <div class="card-body">
+							 <blockquote class="blockquote mb-0">
+								 <p><div class="card">
+										 <div class="card-header">
+											 Quote
+										 </div>
+										 <div class="card-body">
+											 <blockquote class="blockquote mb-0">
+								 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+								 <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+							 </blockquote>
+						 </div>
+					 </div></p>
+								 <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+							 </blockquote>
+						 </div>
+					 </div>
+				 </div>
+			 </div>
+		 </div>
+	  </section>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
