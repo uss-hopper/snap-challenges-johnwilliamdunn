@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8855a6fa-66b1-4be7-939e-cc2410d58143" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/snap_8_8/snap_8_8.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snap_8_8/snap_8_8.php" beforeDir="false" afterPath="$PROJECT_DIR$/snap_8_8/snap_8_8.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/snap_8_8/snap_8_8.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            <state relative-caret-position="270">
+              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -231,7 +230,7 @@
       <workItem from="1564063891946" duration="2390000" />
       <workItem from="1564495628322" duration="3160000" />
       <workItem from="1564668905964" duration="3763000" />
-      <workItem from="1565273246949" duration="239000" />
+      <workItem from="1565273246949" duration="629000" />
     </task>
     <task id="LOCAL-00001" summary="adding function to add two numbers">
       <created>1562683926768</created>
@@ -391,7 +390,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33258000" />
+    <option name="totallyTimeSpent" value="33648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="961" y="23" width="960" height="976" extended-state="0" />
@@ -553,8 +552,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snap_8_8/snap_8_8.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        <state relative-caret-position="270">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
         </state>
       </provider>
     </entry>
