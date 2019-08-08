@@ -64,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/snap_8_8/snap_8_8.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="596">
-              <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+            <state relative-caret-position="101">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -230,7 +230,7 @@
       <workItem from="1564063891946" duration="2390000" />
       <workItem from="1564495628322" duration="3160000" />
       <workItem from="1564668905964" duration="3763000" />
-      <workItem from="1565273246949" duration="1755000" />
+      <workItem from="1565273246949" duration="1983000" />
     </task>
     <task id="LOCAL-00001" summary="adding function to add two numbers">
       <created>1562683926768</created>
@@ -390,7 +390,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34774000" />
+    <option name="totallyTimeSpent" value="35002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="961" y="23" width="960" height="976" extended-state="0" />
@@ -552,8 +552,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snap_8_8/snap_8_8.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        <state relative-caret-position="101">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>

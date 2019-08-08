@@ -11,7 +11,6 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
 <!--	adding header for bootstrap page-->
 	  <header>
 		  <div class="container">
