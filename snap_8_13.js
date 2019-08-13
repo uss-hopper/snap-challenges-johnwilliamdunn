@@ -190,3 +190,8 @@ const array = [{
 	}
 }];
 
+
+foreach ($company) {
+	echo $company->name . '<br>';
+
+}
