@@ -1,4 +1,4 @@
-var array = [
+const users = [
 	{
 		"id": 1,
 		"name": "Leanne Graham",
@@ -231,6 +231,25 @@ var array = [
 	}
 ]
 
-const map1 = array.map(x => x *2);
+let updatedArray = users.map(
+	(object) => {
+	delete object.company;
+	return object;
+		}
 
-console.log(map1);
+)
+
+console.log(updatedArray);
+
+let updatedArray = users.map (
+	(user) => {
+		user.company = undefined;
+		return user;
+	}
+)
+
+let updatedArray = users.map (
+	user => {
+		return {id: object.id, name: object.name, username: object.usernam, etc}
+	}
+)
