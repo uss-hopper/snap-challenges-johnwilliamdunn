@@ -231,9 +231,6 @@ var array = [
 	}
 ]
 
-array.forEach(function(object) {
-	delete object.company;
-});
+const map1 = array.map(x => x *2);
 
-console.log(array);
-
+console.log(map1);
