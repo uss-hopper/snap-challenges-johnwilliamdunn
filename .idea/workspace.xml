@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8855a6fa-66b1-4be7-939e-cc2410d58143" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/snap_8_22/snap_8_22.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snap_8_20/snap_8_20.js" beforeDir="false" afterPath="$PROJECT_DIR$/snap_8_20/snap_8_20.js" afterDir="false" />
-    </list>
+    <list default="true" id="8855a6fa-66b1-4be7-939e-cc2410d58143" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -320,7 +316,7 @@
       <workItem from="1565276774594" duration="65000" />
       <workItem from="1565704608316" duration="2786000" />
       <workItem from="1566309686006" duration="3707000" />
-      <workItem from="1566483559704" duration="708000" />
+      <workItem from="1566483559704" duration="1242000" />
     </task>
     <task id="LOCAL-00001" summary="adding function to add two numbers">
       <created>1562683926768</created>
@@ -480,7 +476,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44728000" />
+    <option name="totallyTimeSpent" value="45262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="959" y="23" width="960" height="976" extended-state="0" />
@@ -491,7 +487,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3280543" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3280543" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39932126" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -501,7 +497,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.26244345" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.32918552" />
+      <window_info anchor="bottom" id="File Transfer" order="12" visible="true" weight="0.32918552" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32918552" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
